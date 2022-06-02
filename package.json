@@ -1,0 +1,22 @@
+{
+  "name": "contador",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RDanielcode/Game.git"
+  },
+  "author": "Daniel R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RDanielcode/Game/issues"
+  },
+  "homepage": "https://github.com/RDanielcode/Game#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
